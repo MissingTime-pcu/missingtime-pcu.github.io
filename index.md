@@ -60,6 +60,6 @@
 
 연번 | 오브젝트 이름 | 오브젝트 이미지
 ---- | ---- | ----
-1 |주인공| <img src="./img/캐릭터.jpg">
-2 |맵|<img src="./img/맵.jpg">
-3 |함정| <img src="./img/함정.jpg">
+1 |주인공| <img src="./img/캐릭터.png">
+2 |맵|<img src="./img/맵.png">
+3 |함정| <img src="./img/함정.png">
