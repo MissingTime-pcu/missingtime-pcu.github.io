@@ -13,6 +13,7 @@
 [- 3주차](#3주차)  
 [- 4주차](#4주차)  
 [- 5주차](#5주차)  
+[- 6주차](#6주차)  
 # 컨셉
 ## 메인컨셉
 - 추리, 스토리 게임
@@ -288,6 +289,29 @@
 <video controls width="640" height="480">
 
     <source src="files/img/5week.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+
+</video>
+
+## 6주차
+
+- 작업명 : 세 번째 스테이지 보완 및 몬스터 AI 조정, 6주 프로젝트 마무리
+
+- 해당 요구사항 : 세 번째 맵 구조 변경, 탈출 이벤트 생성
+
+- 세 번째 스테이지 탈출 이벤트 생성
+- 불필요한 장애물 제거 등 맵 보완
+
+- 설명
+
+- 몬스터가 주인공을 잘 쫓아 올 수 있게 맵 구조를 변경한다
+- 몬스터에서 벗어나 탈출할 수 있는 이벤트를 만든다
+
+- 결과
+<video controls width="640" height="480">
+
+    <source src="files/img/6week.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 
