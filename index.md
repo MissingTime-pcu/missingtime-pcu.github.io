@@ -36,13 +36,13 @@
 
 <br><br>
 # 관련 소스
-<img src="./img/관련이미지.PNG">
+<img src="./img/관련이미지.png">
 
 ## [동영상](https://www.youtube.com/watch?v=t5eI7-wIsv0)
 
 <br><br>
 # [대표 이미지]
-<img src="./img/대표이미지.PNG">
+<img src="./img/대표이미지.png">
 
 
 <br><br>
@@ -74,7 +74,7 @@
 ---- | ---- | ----
 1 |주인공| <img src="./img/플레이어.png">
 2 |아이템|<img src="./img/아이템.PNG">
-3 |몬스터| <img src="./img/몬스터.png">   
+3 |몬스터| <img src="./img/몬스터.png">
 
 
 ## 피라미터
