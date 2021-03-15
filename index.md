@@ -74,7 +74,7 @@
 ---- | ---- | ----
 1 |주인공| <img src="./img/플레이어.png">
 2 |아이템|<img src="./img/아이템.PNG">
-3 |함정| <img src="./img/몬스터.png">   
+3 |몬스터| <img src="./img/몬스터.png">   
 
 
 ## 피라미터
