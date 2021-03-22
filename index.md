@@ -247,18 +247,16 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
  <img src="./img/1주차2.png">
  <img src="./img/1주차3.png">
  
-## 3주차
+## 2주차
 
 - 캐릭터가 움직일때 카메라가 따라오도록 조절(8방향으로 바라보는 방향에 따라 이미지가 달라지도록 수정함)
 - 시간 타이머가 오작동을 하지 않음
 - 유한 상태 머신 구현 (ai)
 
-<img src="./img/aa.JPG">
-<img src="./img/bb.JPG">
-
-
-
-
+ <img src="./img/2주차.png">
+ <img src="./img/2주차1.png">
+ <img src="./img/2주차2.png">
+ <img src="./img/2주차3.png">
 
 ## 3주차
 
