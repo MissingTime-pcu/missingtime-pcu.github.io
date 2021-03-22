@@ -270,7 +270,7 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 - 영상
 
-<source src="files/img/3jo" type="video/mkv">
+<source src="files/img/3jo.mkv">
 
 ## 4주차
 
