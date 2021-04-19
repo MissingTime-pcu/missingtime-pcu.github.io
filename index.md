@@ -75,7 +75,7 @@
 연번 | 오브젝트 이름 | 오브젝트 이미지
 ---- | ---- | ----
 1 |주인공| <img src="./img/플레이어1.png">
-2 |스킬| <img src="./img/스킬.png">
+2 |스킬| <img src="./img/스킬1.png"> <img src="./img/스킬2.png"> <img src="./img/스킬3.png">
 3 |몬스터| <img src="./img/몬스터1.png">
 4 |보스 몬스터| <img src="./img/보스1.png">
 5 |하트| <img src="./img/하트1.png">
