@@ -381,9 +381,9 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 - 랭킹 시스템 기능 구현
 
-<img src="./img/랭킹1.gif">
-<img src="./img/랭킹2.gif">
-<img src="./img/랭킹3.gif">
+<img src="./img/랭랭킹1.gif">
+<img src="./img/랭랭킹2.gif">
+<img src="./img/랭랭킹3.gif">
 
 
 
